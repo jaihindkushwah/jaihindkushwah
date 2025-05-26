@@ -69,7 +69,7 @@
 ## 📬 Connect With Me  
 
 🌍 **Portfolio:** [Coming Soon 🚀]  
-📩 **Email:** [jaihindkushwah@example.com](mailto:jaihindkushwah@example.com)  
+📩 **Email:** [jaihindkushwah@example.com](mailto:jaihindkushwaha672001@gmail.com)  
 💼 **LinkedIn:** [Jai Hind Kushwah](https://www.linkedin.com/in/jaihindkushwah)  
 🐦 **Twitter:** [@jaihindkushwah](https://twitter.com/jaihindkushwah)  
 
