@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jai Hind Kushwah!  
+# 👋 Hey, I'm JaiHind Kushwaha!  
 
 🚀 **Passionate Software Developer | Open-Source Enthusiast | Problem Solver**  
 
