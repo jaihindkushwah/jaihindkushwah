@@ -187,7 +187,7 @@ Designed and developed a high-volume enterprise billing platform serving **1M+ c
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaihindkushwah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/jai6701)
 
 📧 **Email:** <jaihindkushwaha672001@gmail.com>
 
