@@ -1,14 +1,14 @@
 # 👋 Hi, I'm JaiHind Kushwaha
 
-### 🚀 Full Stack Developer | Backend Engineer | ERP Developer | Open Source Enthusiast
+### 🚀 Full Stack Developer | Backend Engineer | AI & LLM Developer | ERP (Frappe) | AWS | Open Source Enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaihindkushwah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jaihindkushwah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-I'm a passionate **Full Stack Developer** from India with experience building scalable web applications, enterprise ERP solutions, backend services, payment integrations, and modern mobile applications.
+I'm a passionate **Full Stack Developer** from India with experience in building scalable web applications, enterprise ERP systems, AI-powered applications, backend services, payment integrations, and cloud-native solutions.
 
-I enjoy designing scalable architectures, optimizing databases, building production-ready APIs, and solving complex engineering challenges.
+I enjoy solving complex engineering challenges, designing scalable architectures, optimizing databases, and building production-ready software.
 
 ---
 
@@ -25,14 +25,15 @@ I enjoy designing scalable architectures, optimizing databases, building product
 
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -43,6 +44,7 @@ I enjoy designing scalable architectures, optimizing databases, building product
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
@@ -64,6 +66,19 @@ I enjoy designing scalable architectures, optimizing databases, building product
 
 ---
 
+## 🤖 AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-009688?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
 ## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -78,15 +93,6 @@ I enjoy designing scalable architectures, optimizing databases, building product
 
 ---
 
-## 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
 # 💼 Professional Experience
 
 ## 💻 Information Technology Executive
@@ -95,8 +101,8 @@ I enjoy designing scalable architectures, optimizing databases, building product
 
 - ERP Development using the Frappe Framework
 - Backend API Development
-- Workflow Automation
 - Vendor Portal Development
+- Business Workflow Automation
 - Third-party API Integrations
 - Custom Reports & Dashboards
 
@@ -106,7 +112,7 @@ I enjoy designing scalable architectures, optimizing databases, building product
 
 Worked on enterprise-grade applications involving:
 
-- Payment Gateway Integration (Razorpay & PhonePe)
+- Payment Gateway Integrations (Razorpay & PhonePe)
 - Backend Development
 - REST API Development
 - Production Systems
@@ -125,45 +131,56 @@ Designed and developed a high-volume enterprise billing platform serving **1M+ c
 
 - 🚀 Generated and delivered **1M+ monthly e-bills**
 - ⚡ Built scalable backend services using **Node.js** and **TypeScript**
-- 📧 Multi-channel bill delivery through **WhatsApp, Email, and SMS**
+- 📧 Multi-channel bill delivery via **WhatsApp, Email, and SMS**
 - 🔄 Processed **10M+ webhook delivery events** every month
-- 🗄 Optimized MySQL queries and APIs for high-volume traffic
+- 🗄️ Optimized MySQL queries and backend APIs for high-volume workloads
 - 📦 Implemented queue-based asynchronous processing with Redis
 - 🔐 Built secure REST APIs with authentication and authorization
-- 📊 Developed monitoring dashboards and reporting tools
-- ☁️ Maintained Linux production servers with Apache, PM2, SSL, and AWS
+- 📊 Developed internal monitoring dashboards and reporting tools
+- ☁️ Deployed and maintained production services using Linux, Apache, PM2, SSL, Docker, and AWS
 
 ### Tech Stack
 
-`Node.js` • `TypeScript` • `MySQL` • `Redis` • `REST API` • `Docker` • `AWS` • `Linux` • `Apache` • `PM2`
+`Node.js` • `TypeScript` • `MySQL` • `Redis` • `REST APIs` • `Docker` • `AWS` • `Linux` • `Apache` • `PM2`
 
 ---
 
-# 🌱 Currently Learning
+# 🚀 What I'm Building
 
+- 🤖 AI-powered applications using **Large Language Models (LLMs)**
+- 📚 Retrieval-Augmented Generation (**RAG**) applications
+- 🧠 Intelligent AI Assistants & Agentic AI Workflows
+- 🌐 Enterprise ERP solutions using **Frappe Framework**
+- ⚡ High-performance backend services with **Node.js** & **NestJS**
+- 📱 Cross-platform mobile applications using **Flutter** & **React Native**
+- ☁️ Cloud-native applications on **AWS**
+
+---
+
+# 🌱 Currently Exploring
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- Vector Databases
 - Kubernetes
 - AWS Cloud
 - Elasticsearch
-- Advanced System Design
 - Distributed Systems
-- High Performance Backend Architecture
+- Advanced System Design
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaihindkushwah&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaihindkushwah&layout=compact&theme=github_dark"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaihindkushwah&show_icons=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaihindkushwah&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaihindkushwah&theme=github-dark"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaihindkushwah&theme=github-dark"/>
 </p>
 
 ---
@@ -181,11 +198,12 @@ Designed and developed a high-volume enterprise billing platform serving **1M+ c
 - Full Stack Development
 - Backend Engineering
 - ERP Development
-- Mobile Application Development
+- AI & LLM Applications
+- RAG Systems
 - Cloud Computing
-- Artificial Intelligence
 - Distributed Systems
 - Microservices
+- Mobile Application Development
 - Database Optimization
 - Open Source
 
