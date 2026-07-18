@@ -1,79 +1,208 @@
-# 👋 Hey, I'm JaiHind Kushwaha!  
+# 👋 Hi, I'm JaiHind Kushwaha
 
-🚀 **Passionate Software Developer | Open-Source Enthusiast | Problem Solver**  
+### 🚀 Full Stack Developer | ERP Developer | Backend Engineer | Open Source Enthusiast
 
-![Profile Banner](https://github.com/jaihindkushwah/banner.png)
+I'm a passionate Full Stack Developer from India with experience building scalable web applications, ERP systems, backend services, payment integrations, and modern mobile applications.
 
-## 🌟 About Me  
-💡 **Creative Thinker & Problem Solver** – I love building scalable, high-performance applications.  
-📖 **Lifelong Learner** – Always exploring new technologies and best practices.  
-🎯 **Driven by Impact** – Passionate about writing clean, efficient, and maintainable code.  
+I enjoy solving complex engineering problems, designing scalable architectures, optimizing databases, and developing production-ready software.
 
 ---
 
-## 🔥 Tech Stack & Skills  
+## 🚀 Tech Stack
 
-### 💻 Languages  
+### 👨‍💻 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Frameworks & Libraries  
+---
+
+### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠 Tools & DevOps  
+---
+
+### 📡 Messaging & Realtime
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FFCC00?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+### ☁️ DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects  
+### 🤖 AI & Machine Learning
 
-### 📝 [Task Management App](https://github.com/jaihindkushwah/innovative-web-app)  
-🔹 A **full-stack** task manager with seamless user experience.  
-💻 **Tech Stack:** React, Node.js, MongoDB  
-
-### 🏡 [Housing Price Prediction](https://github.com/jaihindkushwah/ml-housing-prices)  
-🔹 A **machine learning** model predicting house prices with high accuracy.  
-📊 **Tech Stack:** Python, Scikit-learn, Pandas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
+# 💼 Professional Experience
+
+## 💻 Information Technology Executive
+
+**Bliss GVS Pharma Ltd.**
+
+- ERP Development using Frappe Framework
+- Vendor Portal Development
+- Business Workflow Automation
+- REST API Development
+- Custom Reports & Dashboards
+- Third-party API Integrations
+
+---
+
+## 🚀 Previous Experience
+
+Worked on enterprise-grade applications including:
+
+- Payment Gateway Integrations (Razorpay & PhonePe)
+- Customer Payment Portals
+- Backend APIs
+- Production Systems
+- Workflow Automation
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 Vendor Portal
+
+A complete Vendor Management System built with the Frappe Framework.
+
+**Features**
+
+- Multi-Step Registration
+- Approval Workflow
+- Role-Based Access
+- Document Management
+- Email Notifications
+
+---
+
+## ⛽ Mahanagar Gas E-Billing Platform
+
+Enterprise billing platform capable of processing millions of customer bills.
+
+**Highlights**
+
+- WhatsApp Delivery
+- Email Delivery
+- SMS Delivery
+- Webhook Tracking
+- Queue Processing
+- High Performance APIs
+
+---
+
+## 🤖 OCR Meter Reading System
+
+AI-powered gas meter reading solution using:
+
+- YOLOv8
+- OpenCV
+- Python
+
+---
+
+## 🎮 Wingo Gaming Platform
+
+ERP-powered gaming platform featuring:
+
+- Wallet Management
+- Payment Integration
+- Game Management
+- Admin Dashboard
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- AWS Cloud
+- Elasticsearch
+- Advanced System Design
+- Distributed Systems
+- High Performance Backend Architecture
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaihindkushwah&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaihindkushwah&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaihindkushwah&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaihindkushwah&layout=compact&theme=github_dark"/>
+
 </p>
 
 ---
 
-## 📚 Education  
-🎓 **Bachelor of Technology in Computer Science** – XYZ University  
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaihindkushwah)
+
+📧 **Email:** <jaihindkushwaha672001@gmail.com>
 
 ---
 
-## 📬 Connect With Me  
+## 🎯 Interests
 
-🌍 **Portfolio:** [Coming Soon 🚀]  
-📩 **Email:** [jaihindkushwah@example.com](mailto:jaihindkushwaha672001@gmail.com)  
-💼 **LinkedIn:** [Jai Hind Kushwah](https://www.linkedin.com/in/jaihindkushwah)  
-🐦 **Twitter:** [@jaihindkushwah](https://twitter.com/jaihindkushwah)  
+- Full Stack Development
+- ERP Development
+- Mobile App Development
+- Backend Engineering
+- Artificial Intelligence
+- Microservices
+- Distributed Systems
+- Open Source
 
 ---
 
-💡 **“Code, Learn, Innovate, and Inspire!”** 🚀  
-Thanks for visiting my GitHub! Happy coding! 😃  
+> **"Building scalable software that creates real-world impact."** 🚀
